@@ -1,0 +1,19 @@
+body{
+    background-color: #BAD1C2;
+}
+#beginning{
+    background-color: #4FA095;
+    height: 60px;
+    padding: 21px;
+    margin: -8px;
+}
+#redes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+#proyect1{
+    width: 500px;
+    height: 300px;
+    margin: 50px;
+}
